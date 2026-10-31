@@ -91,7 +91,7 @@ extension _HeroSectionExtension on _PortfolioPageState {
                   lift: 3,
                   child: OutlinedButton(
                     onPressed: () => _go('contact'),
-                    child: const Text('Hire me for a project.'),
+                    child: const Text('Hire me for a project'),
                   ),
                 ),
               ],
