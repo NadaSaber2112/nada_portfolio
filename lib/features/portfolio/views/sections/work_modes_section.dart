@@ -96,7 +96,7 @@ extension _WorkModesSectionExtension on _PortfolioPageState {
                       buttonText: 'Download CV',
                       onPressed: () {
                         _open(
-                          'https://drive.google.com/uc?export=download&id=1EnuTld_Jo8v-EwyDRMp-Ir_D2C6laqV8',
+                          'https://drive.google.com/file/d/1Mnj8jFC-yGN8ZHXgbH1rl26FvEj2SnLo/view?usp=drivesdk',
                         );
                       },
                     ),

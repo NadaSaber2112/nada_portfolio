@@ -82,7 +82,7 @@ extension _HeroSectionExtension on _PortfolioPageState {
                     foregroundColor: const Color(0xFF7AE7E3),
                   ),
                   onPressed: () => _open(
-                    'https://drive.google.com/uc?export=download&id=1EnuTld_Jo8v-EwyDRMp-Ir_D2C6laqV8',
+                    'https://drive.google.com/file/d/1Mnj8jFC-yGN8ZHXgbH1rl26FvEj2SnLo/view?usp=drivesdk',
                   ),
                   icon: const Icon(Icons.download_rounded, size: 18),
                   label: const Text('Download CV'),
